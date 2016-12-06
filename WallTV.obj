@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: ''
 # www.blender.org
-mtllib WallTV.mtl
+mtllib https://raw.githubusercontent.com/basecodeagtc/Altvr-Objects/master/WallTV.mtl
 o Wand_TV
 v -0.357415 0.788388 0.637016
 v -0.357415 0.765916 0.659592
