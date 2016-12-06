@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: ''
 # www.blender.org
-mtllib CarboardBox.mtl
+mtllib https://raw.githubusercontent.com/basecodeagtc/Altvr-Objects/master/CarboardBox.mtl
 o Cube
 v 1.000000 0.000000 -1.000000
 v 1.000000 0.000000 1.000000
